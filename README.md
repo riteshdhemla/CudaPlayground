@@ -26,7 +26,7 @@ The primary goal of this project is to get a hands-on learning experience in par
 2. Clone this repository:
 3. Navigate to the project directory and compile the CUDA programs using `nvcc`. -->
 
-## Compliing Programs
+## Compiling Programs
 To compile `vecAdd` kernel, use:
 ```
 nvcc -o vecAdd vecAddMain.c vecAdd.cu
